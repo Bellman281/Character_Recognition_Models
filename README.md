@@ -4,7 +4,7 @@
   
    train size: 90240, val size: 22560 , test size: 18800 
   
- Model:  [SOINALnet] (https://github.com/dipuk0506/SpinalNet/)
+ Model:  [SPINALnet] (https://github.com/dipuk0506/SpinalNet/)
    
    (k80 GPU, each epoch 20 sec.)
    
